@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@300;400;700&display=swap');
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  font-family: 'Overpass', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background: #D9CDF7;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+p {
+  font-weight: 300;
+}
+
+:root{
+  --text-product: #271A45;
+}
